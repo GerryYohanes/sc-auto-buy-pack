@@ -11,11 +11,11 @@ pricepack = 200           ----- harga 1 pack (gems)
 ---------------------------
 
 ------- WORLD SETTING -------
-BuyWorld       = ""       ----- world tempat beli (kosongin = langsung beli di world storage)
-BuyWorldID     = ""       ----- door ID (kosongin kalau tidak pakai)
+BuyWorld       = "KOSONG KAN AJA"       ----- world tempat beli (kosongin = langsung beli di world storage)
+BuyWorldID     = "SAMA AJA KOSONG AJA"       ----- door ID (kosongin kalau tidak pakai)
 
-StorageWorld   = "NANDA298"  ----- world storage tujuan akhir
-StorageWorldID = "YT1"       ----- door ID (kosongin kalau tidak pakai)
+StorageWorld   = "WORLD BELI"  ----- world storage tujuan akhir
+StorageWorldID = "BEBAS SUKA U"       ----- door ID (kosongin kalau tidak pakai)
 DropPack       = "Yes"       ----- "Yes" drop semua pack di storage / "No" cuma warp
 ---------------------------
 
